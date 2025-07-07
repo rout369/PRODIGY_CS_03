@@ -10,7 +10,6 @@ A command-line based **Password Complexity Checker** built in Python. This tool 
 </p>
 
 ---
-
 ## 📌 Features
 
 - 🎨 Stylish ASCII banner using `pyfiglet`
@@ -41,4 +40,5 @@ A command-line based **Password Complexity Checker** built in Python. This tool 
 
     
 ## 📷 Screenshot
+![Screenshot (201)](https://github.com/user-attachments/assets/5f0a4556-009c-4493-8ee2-4a3f76e60b09)
 
